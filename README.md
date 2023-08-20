@@ -14,14 +14,14 @@ Step 5: Splitting the data into test and train set.
 
 Step 6: Building the cnn model
 
-  Step 6.1: Initialising the cnn model.
+    Step 6.1: Initialising the cnn model.
   
-  Step 6.2: Adding the dense layer.
+    Step 6.2: Adding the dense layer.
   
-  Step 6.3: Adding a output layer. Since it is a multi-class classification we activation function as softmax.
+    Step 6.3: Adding a output layer. Since it is a multi-class classification we activation function as softmax.
   
-  Step 6.4: Compiling the cnn model.
+    Step 6.4: Compiling the cnn model.
   
-  Step 6.5: Training the cnn model on the training set and evaluating it on the test set.
+    Step 6.5: Training the cnn model on the training set and evaluating it on the test set.
 
 Step 7: Identifying the digit based on the probability i.e., which has the highest while comparing with the other probabilities it will belong to the corresponding class.
